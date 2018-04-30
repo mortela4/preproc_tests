@@ -1,6 +1,5 @@
 #include <cstdio>
 
-
 #define FW_SERVER_NAME	"portal.agrimon.no"
 #define AT_CMD_GETIP	"AT+UDNSRN=0"
 //
